@@ -1,0 +1,12 @@
+C:\Users\WORM\Documents\TESTES DE BACKEND\Encontro Remoto 2\ProjetoTeste\ProjetoTeste\bin\Debug\net6.0\ER2Teste.deps.json
+C:\Users\WORM\Documents\TESTES DE BACKEND\Encontro Remoto 2\ProjetoTeste\ProjetoTeste\bin\Debug\net6.0\ER2Teste.dll
+C:\Users\WORM\Documents\TESTES DE BACKEND\Encontro Remoto 2\ProjetoTeste\ProjetoTeste\bin\Debug\net6.0\ER2Teste.pdb
+C:\Users\WORM\Documents\TESTES DE BACKEND\Encontro Remoto 2\ProjetoTeste\ProjetoTeste\obj\Debug\net6.0\ER2Teste.csproj.AssemblyReference.cache
+C:\Users\WORM\Documents\TESTES DE BACKEND\Encontro Remoto 2\ProjetoTeste\ProjetoTeste\obj\Debug\net6.0\ER2Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WORM\Documents\TESTES DE BACKEND\Encontro Remoto 2\ProjetoTeste\ProjetoTeste\obj\Debug\net6.0\ER2Teste.AssemblyInfoInputs.cache
+C:\Users\WORM\Documents\TESTES DE BACKEND\Encontro Remoto 2\ProjetoTeste\ProjetoTeste\obj\Debug\net6.0\ER2Teste.AssemblyInfo.cs
+C:\Users\WORM\Documents\TESTES DE BACKEND\Encontro Remoto 2\ProjetoTeste\ProjetoTeste\obj\Debug\net6.0\ER2Teste.csproj.CoreCompileInputs.cache
+C:\Users\WORM\Documents\TESTES DE BACKEND\Encontro Remoto 2\ProjetoTeste\ProjetoTeste\obj\Debug\net6.0\ER2Teste.dll
+C:\Users\WORM\Documents\TESTES DE BACKEND\Encontro Remoto 2\ProjetoTeste\ProjetoTeste\obj\Debug\net6.0\refint\ER2Teste.dll
+C:\Users\WORM\Documents\TESTES DE BACKEND\Encontro Remoto 2\ProjetoTeste\ProjetoTeste\obj\Debug\net6.0\ER2Teste.pdb
+C:\Users\WORM\Documents\TESTES DE BACKEND\Encontro Remoto 2\ProjetoTeste\ProjetoTeste\obj\Debug\net6.0\ref\ER2Teste.dll
